@@ -1,0 +1,7 @@
+com\fpwebpro\controllers\IndexController.class
+com\fpwebpro\SpringBootWebApplication.class
+com\fpwebpro\entities\Product.class
+com\fpwebpro\controllers\ProductController.class
+com\fpwebpro\repositories\ProductRepository.class
+com\fpwebpro\services\ProductServiceImpl.class
+com\fpwebpro\services\ProductService.class
