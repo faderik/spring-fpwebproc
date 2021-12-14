@@ -32,7 +32,7 @@ public class ProductController {
     public String list(Model model) {
         model.addAttribute("products", productService.listAllProducts());
         System.out.println("Returning rpoducts:");
-        return "products";
+        return "pages/dashboard";
     }
 
     /**
